@@ -18,6 +18,23 @@ Down the line idea (this would be cool)!
 
 Custom mechanical keyboard with macro shortcuts for prompt engineering and AI work. 
 
+## Shortcut List Feb 21 (2025)
+
+| Category            | Action                 | Keys                       |
+|---------------------|------------------------|----------------------------|
+| Keyboard shortcuts  | Open new chat          | Ctrl/⌘ + Shift + O         |
+|                     | Focus chat input       | Shift + Esc                |
+|                     | Copy last code block   | Ctrl/⌘ + Shift + ;         |
+|                     | Copy last response     | Ctrl/⌘ + Shift + C         |
+|                     | Toggle settings        | Ctrl/⌘ + .                |
+|                     | Toggle sidebar         | Ctrl/⌘ + Shift + S         |
+|                     | Delete chat            | Ctrl/⌘ + Shift + Del       |
+|                     | Show shortcuts         | Ctrl/⌘ + /                 |
+| Input commands      | Attach file            | #                          |
+|                     | Add custom prompt      | /                          |
+|                     | Select model           | @                          |
+ 
+
 ## The Missing Shortcuts!
 
 Open Web UI has a decent selection of shortcuts at the moment, but I really hope they add to it (I may see if I can work on a feature).
