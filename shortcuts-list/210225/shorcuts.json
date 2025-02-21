@@ -1,0 +1,57 @@
+[
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Open new chat",
+      "Keys": "Ctrl/⌘ + Shift + O"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Focus chat input",
+      "Keys": "Shift + Esc"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Copy last code block",
+      "Keys": "Ctrl/⌘ + Shift + ;"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Copy last response",
+      "Keys": "Ctrl/⌘ + Shift + C"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Toggle settings",
+      "Keys": "Ctrl/⌘ + ."
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Toggle sidebar",
+      "Keys": "Ctrl/⌘ + Shift + S"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Delete chat",
+      "Keys": "Ctrl/⌘ + Shift + Del"
+    },
+    {
+      "Category": "Keyboard shortcuts",
+      "Action": "Show shortcuts",
+      "Keys": "Ctrl/⌘ + /"
+    },
+    {
+      "Category": "Input commands",
+      "Action": "Attach file",
+      "Keys": "#"
+    },
+    {
+      "Category": "Input commands",
+      "Action": "Add custom prompt",
+      "Keys": "/"
+    },
+    {
+      "Category": "Input commands",
+      "Action": "Select model",
+      "Keys": "@"
+    }
+  ]
