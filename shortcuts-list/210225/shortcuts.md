@@ -1,6 +1,5 @@
-Okay, I will extract all the data and provide it to you in Markdown format.
-
-```markdown
+ # Open Web UI Keyboard Shortcuts (Copied Feb 21, 2025)
+ 
 | Category            | Action                 | Keys                       |
 |---------------------|------------------------|----------------------------|
 | Keyboard shortcuts  | Open new chat          | Ctrl/⌘ + Shift + O         |
@@ -14,4 +13,4 @@ Okay, I will extract all the data and provide it to you in Markdown format.
 | Input commands      | Attach file            | #                          |
 |                     | Add custom prompt      | /                          |
 |                     | Select model           | @                          |
-```
+ 
